@@ -22,5 +22,5 @@ apps:
     depends:
       - name: print_nums
       - name: ret42
-      - name: dep
+      - name: example2.dep
         location: larryk85/antler-proj-example2
